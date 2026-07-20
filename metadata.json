@@ -1,0 +1,6 @@
+{
+  "name": "Fenk Mahli Manager",
+  "description": "A professional, high-stakes retail management application designed to manage inventory, sales, and customer debts at a glance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
